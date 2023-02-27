@@ -1,4 +1,4 @@
-# sudoku
+# sudoku_solver
 
 How to use it (grid has to be 16\*16 numbers from 1 to 9 or 0 if undetermined):
 
